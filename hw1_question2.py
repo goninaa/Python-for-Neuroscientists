@@ -10,7 +10,7 @@ def check_palindrome():
     numbers = []
 
     def palindrome (some_number):
-            """ check if a number is a palindrome """
+            """ check if an int (number) is a palindrome """
             some_number = str(some_number)
             if some_number[::-1] == some_number:
                 return True
