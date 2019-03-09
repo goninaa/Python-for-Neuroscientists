@@ -1,6 +1,4 @@
 
-
-
 def compare_subjects_within_student(subj1_all_students,
                                     subj2_all_students):
     """
